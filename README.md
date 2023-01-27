@@ -1,4 +1,4 @@
-<h1 align="center"> Tracks 🚀</h1>
+<h1 align="center"> Trips 🚀</h1>
 
 <p align="center">
 Tarefa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -27,6 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Tracks é um app de viagens basico.
+O Trips é um app de viagens basico.
 
 
