@@ -1,4 +1,4 @@
-<h1 align="center"> Tracks</h1>
+<h1 align="center"> Tracks 🚀</h1>
 
 <p align="center">
 Tarefa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
