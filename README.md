@@ -14,7 +14,7 @@ Tarefa promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Tracks" src="https://i.ibb.co/N7yPT8T/imagem-2023-01-27-064245379.png" width="100%">
+  <img alt="projeto Trips" src="https://i.ibb.co/N7yPT8T/imagem-2023-01-27-064245379.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
